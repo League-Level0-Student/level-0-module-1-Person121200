@@ -18,5 +18,3 @@ void draw() {
     triangle(x, y + 10, x + 50, y + 100, x - 50, y + 100);
 
 }
-
-if (mousePressed.equals(x, y))
